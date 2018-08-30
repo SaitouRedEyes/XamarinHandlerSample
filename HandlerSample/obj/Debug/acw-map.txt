@@ -1,0 +1,8 @@
+HandlerSample.MainActivity, HandlerSample;md58b2c3d4cc2385d9e5a9da33814a24e23.MainActivity
+HandlerSample.MainActivity, HandlerSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58b2c3d4cc2385d9e5a9da33814a24e23.MainActivity
+HandlerSample.MainActivity;md58b2c3d4cc2385d9e5a9da33814a24e23.MainActivity
+handlersample.MainActivity;md58b2c3d4cc2385d9e5a9da33814a24e23.MainActivity
+HandlerSample.ProcessScript, HandlerSample;md58b2c3d4cc2385d9e5a9da33814a24e23.ProcessScript
+HandlerSample.ProcessScript, HandlerSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58b2c3d4cc2385d9e5a9da33814a24e23.ProcessScript
+HandlerSample.ProcessScript;md58b2c3d4cc2385d9e5a9da33814a24e23.ProcessScript
+handlersample.ProcessScript;md58b2c3d4cc2385d9e5a9da33814a24e23.ProcessScript
